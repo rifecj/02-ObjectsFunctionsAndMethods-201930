@@ -28,7 +28,7 @@ def main():
     """
     answer = pyth(3,4)
     print(answer)
-    turt('red',3)
+    #turt('red',3)
     turt('blue',10)
 
 
